@@ -4,6 +4,16 @@ h1 {
   font-size: 40px;
 }
 
+button {
+  margin: 1em;
+  padding: 0.5em 2em;
+  font-size: 1em;
+}
+
+img {
+  width: 100%;
+}
+
 p {
   font-family: Lato;
 }
